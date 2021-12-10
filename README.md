@@ -5,3 +5,7 @@ When you are near a chair hold ALT ant with the eye go on top of chair if the ch
 
 Change log 
  * 1.0 Initial release
+
+
+# Info
+You are able to stand up with the Keybind Shift+E
